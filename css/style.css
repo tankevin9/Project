@@ -1,0 +1,45 @@
+body{
+  background-color: #CCEEFF;
+  width: auto;
+}
+
+header{
+  width: auto;
+  height: 300px;
+}
+
+.shoesname{
+  width: 350px;
+  height: 200px;
+  margin-left: 525px;
+  font-family: Arial;
+  font-size: 36px;
+}
+
+.shoes{
+  width: 350px;
+  height: 250px;
+  margin-left: 525px;
+  float: left;
+}
+
+.buybutton{
+  width: 28%;
+  float: right;
+}
+
+.shoesword{
+  width: 350px;
+  height: 350px;
+  margin-left: 525px;
+}
+
+.originprice{
+  width: 28%;
+  float: right;
+}
+
+.nowprice{
+  width: 28%;
+  float: right;
+}
